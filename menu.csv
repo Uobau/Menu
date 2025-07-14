@@ -1,0 +1,1001 @@
+Restaurant,Dish,Price
+Green Eatery,BLT Sandwich,17.85
+Green Eatery,Vegan Burger,14.29
+Green Eatery,Veggie Burrito,18.82
+Green Eatery,Green Curry,25.56
+Green Eatery,Ramen,13.82
+Green Eatery,Pancakes,13.82
+Green Eatery,Club Sandwich,26.07
+Green Eatery,Hummus Plate,19.62
+Green Eatery,Caesar Salad,12.73
+Green Eatery,Chicken Tikka Masala,18.14
+Green Eatery,Grilled Salmon,12.75
+Green Eatery,Spaghetti Bolognese,12.74
+Green Eatery,California Roll,16.33
+Classic House,Lamb Gyro,7.68
+Classic House,Steak Frites,8.2
+Classic House,Grilled Salmon,12.32
+Classic House,Ice Cream Sundae,10.52
+Classic House,Apple Pie,16.74
+Classic House,Margherita Pizza,10.92
+Classic House,Spaghetti Bolognese,9.15
+Classic House,Veggie Pizza,25.05
+Classic House,Chocolate Cake,13.86
+Classic House,Falafel Wrap,15.36
+Silver Grill,California Roll,9.11
+Silver Grill,Spaghetti Bolognese,12.4
+Silver Grill,Avocado Toast,15.59
+Silver Grill,Chicken Tikka Masala,10.03
+Silver Grill,Beef Burrito,17.11
+Silver Grill,Eggs Benedict,12.16
+Silver Grill,Fish and Chips,13.54
+Silver Grill,BLT Sandwich,12.15
+Silver Grill,Greek Salad,28.68
+Silver Grill,Waffles,14.93
+Delicious Cafe,Waffles,10.36
+Delicious Cafe,Red Curry,20.0
+Delicious Cafe,Vegan Burger,9.78
+Delicious Cafe,Lasagna,16.14
+Delicious Cafe,Cheesecake,7.55
+Delicious Cafe,Fried Rice,9.42
+Delicious Cafe,Tempura Udon,16.07
+Delicious Cafe,Hummus Plate,19.42
+Delicious Cafe,Tiramisu,15.93
+Delicious Cafe,French Toast,14.4
+Delicious Cafe,Veggie Pizza,13.5
+Delicious Cafe,Chocolate Cake,8.94
+Delicious Cafe,BLT Sandwich,11.66
+Royal Grill,California Roll,12.77
+Royal Grill,Lasagna,21.72
+Royal Grill,Chicken Tikka Masala,16.92
+Royal Grill,Vegan Burger,8.09
+Royal Grill,Cheesecake,16.8
+Royal Grill,BLT Sandwich,13.11
+Royal Grill,Pancakes,11.84
+Royal Grill,Greek Salad,18.58
+Royal Grill,Fried Rice,21.52
+Royal Grill,Bacon Burger,20.78
+Royal Grill,Beef Burrito,11.18
+Royal Grill,French Toast,13.46
+Royal Grill,Apple Pie,16.84
+Royal Grill,Spaghetti Bolognese,21.1
+Royal Grill,Grilled Salmon,12.68
+Royal Grill,Green Curry,14.06
+Lucky Grill,Lasagna,10.18
+Lucky Grill,Veggie Pizza,9.87
+Lucky Grill,Cheesecake,19.93
+Lucky Grill,BLT Sandwich,24.11
+Lucky Grill,Margherita Pizza,14.63
+Lucky Grill,Fettuccine Alfredo,21.31
+Lucky Grill,Chicken Tikka Masala,17.02
+Lucky Grill,Cheeseburger,11.97
+Lucky Grill,Red Curry,17.02
+Lucky Grill,Eggs Benedict,25.7
+Lucky Grill,Waffles,14.81
+Lucky Grill,Fish and Chips,25.94
+Lucky Grill,Green Curry,6.0
+Lucky Grill,Tiramisu,20.0
+Lucky Grill,Hummus Plate,15.46
+Lucky Grill,Vegan Burger,13.51
+Lucky Grill,Chocolate Cake,15.49
+Lucky Grill,French Toast,7.48
+Blue Cafe,French Toast,13.89
+Blue Cafe,Chicken Burrito,17.0
+Blue Cafe,Fried Rice,25.16
+Blue Cafe,Steak Frites,12.51
+Blue Cafe,Eggs Benedict,11.3
+Blue Cafe,Cobb Salad,12.58
+Blue Cafe,Vegan Burger,20.66
+Blue Cafe,Tiramisu,16.83
+Blue Cafe,Fish and Chips,12.46
+Blue Cafe,Veggie Pizza,17.95
+Blue Cafe,BLT Sandwich,15.52
+Blue Cafe,Cheesecake,21.05
+Blue Cafe,Sushi Platter,11.73
+Blue Cafe,Club Sandwich,13.37
+Red Kitchen,Lamb Gyro,13.08
+Red Kitchen,Waffles,8.99
+Red Kitchen,Avocado Toast,16.64
+Red Kitchen,Club Sandwich,16.44
+Red Kitchen,Cheeseburger,15.03
+Red Kitchen,Veggie Pizza,13.82
+Red Kitchen,Apple Pie,9.14
+Red Kitchen,Fettuccine Alfredo,12.95
+Red Kitchen,Bacon Burger,13.3
+Red Kitchen,Spaghetti Bolognese,11.33
+Green Diner,Spaghetti Bolognese,14.18
+Green Diner,Tiramisu,17.28
+Green Diner,Chicken Tikka Masala,29.03
+Green Diner,Green Curry,15.95
+Green Diner,Caesar Salad,16.41
+Green Diner,Roast Chicken,14.61
+Green Diner,Apple Pie,7.66
+Green Diner,Lamb Gyro,14.86
+Green Diner,BBQ Chicken Pizza,15.32
+Green Diner,Fettuccine Alfredo,35.52
+Green Diner,Red Curry,14.02
+Green Diner,Club Sandwich,16.67
+Green Diner,Sushi Platter,14.82
+Green Diner,Butter Chicken,9.96
+Green Diner,Lasagna,22.38
+Green Diner,California Roll,19.52
+Green Diner,Tempura Udon,19.78
+Green Diner,Cheeseburger,10.91
+Green Diner,Chocolate Cake,24.51
+Sunny Diner,Green Curry,9.18
+Sunny Diner,Greek Salad,18.42
+Sunny Diner,Apple Pie,32.29
+Sunny Diner,Cheesecake,10.61
+Sunny Diner,Veggie Burrito,12.3
+Sunny Diner,French Toast,15.53
+Sunny Diner,Sushi Platter,12.58
+Sunny Diner,Spaghetti Bolognese,8.72
+Sunny Diner,Margherita Pizza,15.36
+Sunny Diner,Hummus Plate,10.34
+Sunny Diner,Lasagna,17.7
+Sunny Diner,Lamb Gyro,10.87
+Sunny Diner,Fish and Chips,25.8
+Sunny Diner,Butter Chicken,11.4
+Quiet Eatery,Tempura Udon,13.4
+Quiet Eatery,Spaghetti Bolognese,19.94
+Quiet Eatery,Chicken Tikka Masala,9.75
+Quiet Eatery,Ramen,16.24
+Quiet Eatery,Chicken Burrito,23.7
+Quiet Eatery,Cheeseburger,8.55
+Quiet Eatery,Pancakes,16.0
+Quiet Eatery,BLT Sandwich,16.43
+Quiet Eatery,Veggie Burrito,19.72
+Quiet Eatery,Club Sandwich,9.73
+Quiet Eatery,Margherita Pizza,9.45
+Quiet Eatery,Roast Chicken,18.01
+Modern Bistro,Lasagna,16.64
+Modern Bistro,Greek Salad,16.37
+Modern Bistro,Butter Chicken,16.93
+Modern Bistro,Caesar Salad,11.82
+Modern Bistro,Ice Cream Sundae,16.27
+Modern Bistro,Steak Frites,16.62
+Modern Bistro,Cobb Salad,11.68
+Modern Bistro,Beef Burrito,28.82
+Modern Bistro,Chicken Burrito,17.71
+Modern Bistro,Fish and Chips,9.89
+Modern Bistro,California Roll,18.88
+Modern Bistro,Hummus Plate,10.66
+Modern Bistro,Apple Pie,19.76
+Modern Bistro,Eggs Benedict,22.5
+Modern Bistro,Tiramisu,11.25
+Modern Bistro,Pancakes,21.01
+Modern Bistro,Fried Rice,17.33
+Modern Bistro,Pepperoni Pizza,20.0
+Modern Bistro,BBQ Chicken Pizza,29.13
+Modern Bistro,Sushi Platter,13.77
+Lucky Bar,Beef Burrito,11.52
+Lucky Bar,BBQ Chicken Pizza,10.99
+Lucky Bar,Margherita Pizza,11.27
+Lucky Bar,California Roll,14.6
+Lucky Bar,Greek Salad,16.9
+Lucky Bar,Butter Chicken,16.53
+Lucky Bar,Cheeseburger,20.04
+Lucky Bar,Pancakes,15.07
+Lucky Bar,Steak Frites,24.95
+Lucky Bar,Fried Rice,13.67
+Lucky Bar,Apple Pie,38.87
+Lucky Bar,Caesar Salad,18.67
+Lucky Bar,Spaghetti Bolognese,11.11
+Lucky Bar,Cobb Salad,10.31
+Lucky Bar,Ice Cream Sundae,17.76
+Lucky Bar,Pepperoni Pizza,13.87
+Cozy Eatery,Lamb Gyro,19.26
+Cozy Eatery,Steak Frites,17.7
+Cozy Eatery,Cobb Salad,14.62
+Cozy Eatery,Fried Rice,11.15
+Cozy Eatery,Greek Salad,8.83
+Cozy Eatery,BBQ Chicken Pizza,12.83
+Cozy Eatery,Veggie Burrito,20.24
+Cozy Eatery,Ramen,16.17
+Cozy Eatery,Hummus Plate,9.7
+Cozy Eatery,Tempura Udon,15.94
+Cozy Eatery,Fish and Chips,17.17
+Cozy Eatery,Chicken Tikka Masala,11.01
+Cozy Eatery,Lasagna,15.83
+Cozy Eatery,Tiramisu,15.31
+Cozy Eatery,Pad Thai,10.05
+Charming Bar,Red Curry,17.0
+Charming Bar,Hummus Plate,18.25
+Charming Bar,Cobb Salad,21.91
+Charming Bar,Chicken Tikka Masala,21.69
+Charming Bar,Cheeseburger,9.26
+Charming Bar,Bacon Burger,10.8
+Charming Bar,Ice Cream Sundae,17.96
+Charming Bar,Pepperoni Pizza,17.96
+Charming Bar,Tiramisu,17.96
+Charming Bar,California Roll,57.77
+Charming Bar,Falafel Wrap,18.32
+Charming Bar,Cheesecake,22.32
+Charming Bar,Beef Burrito,20.95
+Charming Bar,Chocolate Cake,18.84
+Charming Bar,Green Curry,13.43
+Charming Bar,Tempura Udon,19.56
+Charming Bar,Veggie Pizza,11.45
+Charming Bar,Vegan Burger,13.81
+Grand House,Waffles,12.66
+Grand House,Grilled Salmon,15.44
+Grand House,Vegan Burger,33.72
+Grand House,French Toast,7.8
+Grand House,Tempura Udon,19.07
+Grand House,Veggie Burrito,8.53
+Grand House,Tiramisu,12.72
+Grand House,Falafel Wrap,21.96
+Grand House,Pepperoni Pizza,15.34
+Grand House,Apple Pie,10.29
+Sunny Tavern,California Roll,11.68
+Sunny Tavern,Beef Burrito,19.03
+Sunny Tavern,Spaghetti Bolognese,11.62
+Sunny Tavern,Tiramisu,16.18
+Sunny Tavern,Tempura Udon,15.24
+Sunny Tavern,Avocado Toast,11.94
+Sunny Tavern,Green Curry,31.77
+Sunny Tavern,BLT Sandwich,18.73
+Sunny Tavern,Ice Cream Sundae,7.38
+Sunny Tavern,Pepperoni Pizza,16.01
+Sunny Tavern,Caesar Salad,11.9
+Sunny Tavern,Butter Chicken,20.21
+Sunny Tavern,Bacon Burger,11.37
+Sunny Tavern,Club Sandwich,14.41
+Sunny Tavern,Steak Frites,17.9
+Sunny Tavern,Veggie Pizza,20.31
+Quiet Bistro,Fried Rice,9.85
+Quiet Bistro,Tempura Udon,13.34
+Quiet Bistro,Sushi Platter,12.7
+Quiet Bistro,Ice Cream Sundae,11.93
+Quiet Bistro,Falafel Wrap,27.83
+Quiet Bistro,Avocado Toast,17.28
+Quiet Bistro,Caesar Salad,9.65
+Quiet Bistro,Pad Thai,20.68
+Quiet Bistro,Roast Chicken,31.53
+Quiet Bistro,Vegan Burger,21.53
+Quiet Bistro,Butter Chicken,8.81
+Quiet Bistro,BBQ Chicken Pizza,12.66
+Quiet Bistro,Cheesecake,23.37
+Quiet Bistro,Margherita Pizza,11.71
+Quiet Bistro,BLT Sandwich,17.52
+Quiet Bistro,French Toast,19.67
+Quiet Bistro,Green Curry,10.84
+Quiet Bistro,Beef Burrito,14.69
+Quiet Bistro,California Roll,4.82
+Happy Bistro,Vegan Burger,10.48
+Happy Bistro,Ramen,13.73
+Happy Bistro,Fried Rice,9.69
+Happy Bistro,Spaghetti Bolognese,26.56
+Happy Bistro,California Roll,9.09
+Happy Bistro,Hummus Plate,12.86
+Happy Bistro,Sushi Platter,15.7
+Happy Bistro,Caesar Salad,24.84
+Happy Bistro,Veggie Burrito,9.07
+Happy Bistro,Avocado Toast,22.54
+Happy Bistro,Roast Chicken,15.05
+Happy Bistro,Red Curry,10.64
+Happy Bistro,Falafel Wrap,17.63
+Happy Bistro,Green Curry,16.08
+Happy Bistro,Tempura Udon,12.16
+Happy Bistro,Cobb Salad,15.37
+Happy Bistro,Beef Burrito,13.11
+Happy Bistro,Cheesecake,15.61
+Happy Bistro,Lasagna,18.91
+Happy Bistro,Fish and Chips,26.13
+Red Cafe,Pad Thai,9.73
+Red Cafe,Tiramisu,31.65
+Red Cafe,Bacon Burger,7.57
+Red Cafe,Hummus Plate,14.22
+Red Cafe,Roast Chicken,18.43
+Red Cafe,Veggie Burrito,16.55
+Red Cafe,Green Curry,12.06
+Red Cafe,Steak Frites,13.95
+Red Cafe,Margherita Pizza,12.62
+Red Cafe,Cheesecake,12.2
+Red Cafe,Chicken Burrito,20.19
+Red Cafe,Fish and Chips,17.0
+Red Cafe,Fried Rice,11.77
+Red Cafe,Sushi Platter,20.55
+Red Cafe,Grilled Salmon,16.7
+Red Cafe,Waffles,19.94
+Red Cafe,French Toast,18.7
+Red Cafe,California Roll,11.22
+Red Cafe,Lasagna,12.33
+Red Cafe,Butter Chicken,19.48
+Charming Garden,Cheeseburger,18.57
+Charming Garden,Apple Pie,14.89
+Charming Garden,Fettuccine Alfredo,15.63
+Charming Garden,Chicken Burrito,23.46
+Charming Garden,Avocado Toast,12.19
+Charming Garden,Hummus Plate,18.17
+Charming Garden,California Roll,13.98
+Charming Garden,Tiramisu,13.9
+Charming Garden,Chicken Tikka Masala,22.03
+Charming Garden,Veggie Burrito,20.02
+Charming Garden,Grilled Salmon,19.94
+Charming Garden,Vegan Burger,23.69
+Charming Garden,Cobb Salad,15.11
+Charming Garden,Pepperoni Pizza,19.04
+Charming Garden,Eggs Benedict,13.46
+Charming Garden,Caesar Salad,16.8
+Charming Garden,Roast Chicken,14.33
+Blue Tavern,Spaghetti Bolognese,15.52
+Blue Tavern,French Toast,18.47
+Blue Tavern,Red Curry,11.26
+Blue Tavern,Chocolate Cake,31.2
+Blue Tavern,Roast Chicken,10.55
+Blue Tavern,Vegan Burger,9.81
+Blue Tavern,Pad Thai,22.5
+Blue Tavern,Eggs Benedict,19.79
+Blue Tavern,Green Curry,18.66
+Blue Tavern,Chicken Tikka Masala,18.69
+Blue Tavern,Cobb Salad,14.94
+Blue Tavern,Margherita Pizza,10.96
+Blue Tavern,Lasagna,15.4
+Blue Tavern,Fried Rice,11.83
+Blue Tavern,Caesar Salad,21.1
+Blue Tavern,Fettuccine Alfredo,14.25
+Blue Tavern,Cheesecake,11.24
+Blue Tavern,Tempura Udon,13.4
+Blue Tavern,Butter Chicken,17.33
+Sunny Kitchen,Veggie Pizza,12.31
+Sunny Kitchen,Steak Frites,11.25
+Sunny Kitchen,Chicken Tikka Masala,16.34
+Sunny Kitchen,Caesar Salad,16.34
+Sunny Kitchen,French Toast,12.56
+Sunny Kitchen,Greek Salad,12.72
+Sunny Kitchen,Chocolate Cake,16.27
+Sunny Kitchen,Club Sandwich,9.04
+Sunny Kitchen,Tiramisu,9.17
+Sunny Kitchen,Sushi Platter,11.67
+Sunny Kitchen,Pancakes,13.92
+Sunny Kitchen,Avocado Toast,16.72
+Sunny Kitchen,Fried Rice,25.14
+Sunny Kitchen,BLT Sandwich,20.25
+Sunny Kitchen,Eggs Benedict,14.18
+Sunny Kitchen,Fettuccine Alfredo,14.9
+Sunny Kitchen,Ramen,10.56
+Lucky Eatery,Pancakes,14.9
+Lucky Eatery,Butter Chicken,13.56
+Lucky Eatery,Chicken Tikka Masala,16.79
+Lucky Eatery,Chocolate Cake,11.23
+Lucky Eatery,Beef Burrito,17.99
+Lucky Eatery,Club Sandwich,25.65
+Lucky Eatery,Eggs Benedict,14.44
+Lucky Eatery,Apple Pie,17.26
+Lucky Eatery,Cheesecake,19.1
+Lucky Eatery,Ice Cream Sundae,13.03
+Lucky Eatery,Spaghetti Bolognese,16.22
+Lucky Eatery,Chicken Burrito,15.07
+Lucky Eatery,Lamb Gyro,15.52
+Lucky Eatery,Roast Chicken,11.44
+Lucky Eatery,Cheeseburger,15.13
+Lucky Eatery,Waffles,17.86
+Lucky Eatery,Steak Frites,24.93
+Classic Eatery,Fettuccine Alfredo,20.98
+Classic Eatery,Greek Salad,31.87
+Classic Eatery,Cobb Salad,11.47
+Classic Eatery,Grilled Salmon,20.36
+Classic Eatery,Pad Thai,15.99
+Classic Eatery,Apple Pie,32.28
+Classic Eatery,Fish and Chips,11.3
+Classic Eatery,Spaghetti Bolognese,11.18
+Classic Eatery,Red Curry,12.16
+Classic Eatery,Roast Chicken,7.13
+Classic Eatery,California Roll,12.48
+Classic Eatery,French Toast,11.5
+Classic Eatery,Steak Frites,15.81
+Classic Eatery,Veggie Pizza,16.91
+Classic Eatery,Lasagna,28.93
+Classic Eatery,Avocado Toast,20.92
+Classic Eatery,Falafel Wrap,12.26
+Classic Eatery,Vegan Burger,10.95
+Grand Kitchen,Ice Cream Sundae,17.82
+Grand Kitchen,Pepperoni Pizza,9.45
+Grand Kitchen,Roast Chicken,28.48
+Grand Kitchen,Pad Thai,22.67
+Grand Kitchen,Waffles,12.73
+Grand Kitchen,Margherita Pizza,8.24
+Grand Kitchen,Tempura Udon,24.09
+Grand Kitchen,Veggie Burrito,14.41
+Grand Kitchen,Cheesecake,23.13
+Grand Kitchen,Red Curry,8.58
+Grand Kitchen,BLT Sandwich,12.16
+Grand Kitchen,Grilled Salmon,15.03
+Grand Kitchen,Eggs Benedict,15.25
+Grand Kitchen,Club Sandwich,12.81
+Grand Kitchen,Greek Salad,18.65
+Grand Kitchen,Fish and Chips,10.32
+Grand Kitchen,Chicken Tikka Masala,14.27
+Grand Kitchen,Hummus Plate,15.65
+Grand Kitchen,Vegan Burger,17.96
+Sunny House,Apple Pie,19.24
+Sunny House,Tiramisu,10.12
+Sunny House,Green Curry,8.77
+Sunny House,Cheeseburger,23.46
+Sunny House,French Toast,16.85
+Sunny House,Greek Salad,11.54
+Sunny House,BLT Sandwich,25.81
+Sunny House,Pepperoni Pizza,15.62
+Sunny House,Ice Cream Sundae,22.66
+Sunny House,Lamb Gyro,15.36
+Sunny House,Fettuccine Alfredo,30.86
+Sunny House,Fried Rice,27.73
+Sunny House,Hummus Plate,13.75
+Sunny House,Chocolate Cake,21.08
+Sunny House,Falafel Wrap,18.8
+Royal Bistro,Butter Chicken,24.22
+Royal Bistro,Pad Thai,10.7
+Royal Bistro,Sushi Platter,19.07
+Royal Bistro,Fish and Chips,21.73
+Royal Bistro,French Toast,8.11
+Royal Bistro,Apple Pie,9.91
+Royal Bistro,California Roll,7.35
+Royal Bistro,Tiramisu,13.65
+Royal Bistro,Beef Burrito,19.28
+Royal Bistro,Red Curry,25.38
+Red Tavern,Fettuccine Alfredo,15.39
+Red Tavern,Waffles,26.52
+Red Tavern,Pepperoni Pizza,9.25
+Red Tavern,BLT Sandwich,8.26
+Red Tavern,Veggie Pizza,14.71
+Red Tavern,Tempura Udon,17.16
+Red Tavern,Grilled Salmon,14.83
+Red Tavern,Spaghetti Bolognese,7.28
+Red Tavern,BBQ Chicken Pizza,14.54
+Red Tavern,Apple Pie,9.5
+Red Tavern,Chicken Tikka Masala,18.96
+Red Tavern,Vegan Burger,17.05
+Red Tavern,Steak Frites,10.8
+Red Tavern,Cobb Salad,12.53
+Delicious Diner,Greek Salad,10.35
+Delicious Diner,Waffles,14.67
+Delicious Diner,Apple Pie,20.95
+Delicious Diner,Caesar Salad,10.62
+Delicious Diner,Roast Chicken,17.89
+Delicious Diner,Fish and Chips,12.46
+Delicious Diner,French Toast,11.37
+Delicious Diner,Butter Chicken,14.45
+Delicious Diner,Ramen,10.44
+Delicious Diner,Cheeseburger,12.36
+Delicious Diner,Cheesecake,9.86
+Delicious Diner,Steak Frites,29.84
+Delicious Diner,Veggie Burrito,15.19
+Happy House,Lamb Gyro,11.74
+Happy House,Pepperoni Pizza,16.17
+Happy House,Veggie Burrito,14.42
+Happy House,Roast Chicken,13.88
+Happy House,Pad Thai,18.6
+Happy House,Green Curry,19.55
+Happy House,Vegan Burger,12.46
+Happy House,Spaghetti Bolognese,12.26
+Happy House,Chicken Tikka Masala,13.62
+Happy House,Lasagna,6.7
+Happy House,Apple Pie,8.83
+Lucky Kitchen,Falafel Wrap,24.2
+Lucky Kitchen,Caesar Salad,26.68
+Lucky Kitchen,Roast Chicken,13.75
+Lucky Kitchen,BBQ Chicken Pizza,18.35
+Lucky Kitchen,Tempura Udon,16.73
+Lucky Kitchen,BLT Sandwich,44.06
+Lucky Kitchen,Fried Rice,22.2
+Lucky Kitchen,Ramen,14.34
+Lucky Kitchen,Spaghetti Bolognese,10.74
+Lucky Kitchen,Avocado Toast,8.55
+Lucky Kitchen,California Roll,16.11
+Lucky Kitchen,Margherita Pizza,11.51
+Lucky Kitchen,Red Curry,9.12
+Lucky Kitchen,Eggs Benedict,11.96
+Lucky Kitchen,Veggie Pizza,10.27
+Lucky Kitchen,Fish and Chips,27.07
+Lucky Kitchen,Bacon Burger,20.42
+Lucky Kitchen,Sushi Platter,14.96
+Lucky Kitchen,Steak Frites,25.18
+Lucky Kitchen,Grilled Salmon,15.41
+Blue Kitchen,Fried Rice,11.1
+Blue Kitchen,Bacon Burger,25.56
+Blue Kitchen,Club Sandwich,18.11
+Blue Kitchen,Cheesecake,10.43
+Blue Kitchen,Beef Burrito,14.03
+Blue Kitchen,Hummus Plate,11.04
+Blue Kitchen,BLT Sandwich,9.24
+Blue Kitchen,Waffles,20.74
+Blue Kitchen,French Toast,29.26
+Blue Kitchen,Ice Cream Sundae,9.19
+Blue Kitchen,Chocolate Cake,18.27
+Blue Kitchen,Sushi Platter,11.95
+Happy Eatery,Fettuccine Alfredo,12.65
+Happy Eatery,Beef Burrito,12.19
+Happy Eatery,Pancakes,11.09
+Happy Eatery,Chicken Tikka Masala,15.26
+Happy Eatery,French Toast,11.21
+Happy Eatery,Roast Chicken,16.49
+Happy Eatery,Pad Thai,14.74
+Happy Eatery,California Roll,13.8
+Happy Eatery,Pepperoni Pizza,10.92
+Happy Eatery,Eggs Benedict,12.26
+Happy Eatery,Sushi Platter,19.54
+Happy Eatery,Bacon Burger,17.87
+Happy Eatery,Steak Frites,10.65
+Charming Cafe,Tempura Udon,15.53
+Charming Cafe,Butter Chicken,19.51
+Charming Cafe,California Roll,8.36
+Charming Cafe,Beef Burrito,18.14
+Charming Cafe,Falafel Wrap,11.9
+Charming Cafe,Cheesecake,18.32
+Charming Cafe,Steak Frites,11.48
+Charming Cafe,Margherita Pizza,7.98
+Charming Cafe,Club Sandwich,8.49
+Charming Cafe,Vegan Burger,15.25
+Charming Cafe,Fettuccine Alfredo,16.43
+Charming Cafe,Chicken Tikka Masala,10.93
+Charming Cafe,Red Curry,18.76
+Green Garden,Steak Frites,8.39
+Green Garden,Chicken Tikka Masala,14.66
+Green Garden,Waffles,9.82
+Green Garden,Cheesecake,11.94
+Green Garden,Eggs Benedict,15.25
+Green Garden,Pancakes,11.1
+Green Garden,Pepperoni Pizza,13.11
+Green Garden,Fettuccine Alfredo,21.33
+Green Garden,Chicken Burrito,12.26
+Green Garden,Grilled Salmon,20.1
+Green Garden,Green Curry,10.1
+Green Garden,Tiramisu,18.06
+Green Garden,Veggie Burrito,24.84
+Green Garden,Ramen,6.32
+Green Garden,Club Sandwich,11.35
+Green Garden,Beef Burrito,18.36
+Green Garden,Butter Chicken,13.97
+Green Grill,Fried Rice,17.08
+Green Grill,Steak Frites,12.14
+Green Grill,California Roll,15.46
+Green Grill,Tempura Udon,14.2
+Green Grill,French Toast,22.57
+Green Grill,Beef Burrito,16.4
+Green Grill,Veggie Burrito,16.88
+Green Grill,Butter Chicken,12.99
+Green Grill,Grilled Salmon,12.65
+Green Grill,Caesar Salad,12.89
+Green Grill,Vegan Burger,17.22
+Green Grill,Sushi Platter,12.94
+Green Grill,Tiramisu,16.6
+Green Grill,Bacon Burger,31.01
+Green Grill,Lasagna,20.35
+Delicious Tavern,Waffles,13.38
+Delicious Tavern,Beef Burrito,22.84
+Delicious Tavern,Lamb Gyro,13.0
+Delicious Tavern,Club Sandwich,7.35
+Delicious Tavern,Falafel Wrap,10.54
+Delicious Tavern,Chicken Burrito,7.79
+Delicious Tavern,Lasagna,13.26
+Delicious Tavern,Vegan Burger,15.1
+Delicious Tavern,Hummus Plate,26.97
+Delicious Tavern,Grilled Salmon,16.82
+Delicious Tavern,Ramen,13.89
+Delicious Tavern,Bacon Burger,20.05
+Delicious Tavern,Veggie Burrito,6.92
+Happy Kitchen,BLT Sandwich,16.29
+Happy Kitchen,Greek Salad,19.65
+Happy Kitchen,Beef Burrito,8.94
+Happy Kitchen,BBQ Chicken Pizza,22.38
+Happy Kitchen,Veggie Pizza,16.89
+Happy Kitchen,Steak Frites,12.97
+Happy Kitchen,Chicken Burrito,18.72
+Happy Kitchen,Tiramisu,33.21
+Happy Kitchen,Eggs Benedict,15.99
+Happy Kitchen,Lasagna,16.36
+Modern Kitchen,Roast Chicken,12.77
+Modern Kitchen,Chicken Burrito,11.14
+Modern Kitchen,Waffles,20.06
+Modern Kitchen,Apple Pie,11.12
+Modern Kitchen,Pancakes,15.38
+Modern Kitchen,California Roll,12.69
+Modern Kitchen,Bacon Burger,17.74
+Modern Kitchen,Veggie Pizza,16.86
+Modern Kitchen,Butter Chicken,21.57
+Modern Kitchen,Cheesecake,12.55
+Modern Grill,Spaghetti Bolognese,13.65
+Modern Grill,Green Curry,10.65
+Modern Grill,Eggs Benedict,12.84
+Modern Grill,Ice Cream Sundae,17.12
+Modern Grill,Roast Chicken,19.55
+Modern Grill,Veggie Pizza,10.86
+Modern Grill,Cobb Salad,20.34
+Modern Grill,Falafel Wrap,24.11
+Modern Grill,Chocolate Cake,17.34
+Modern Grill,Veggie Burrito,28.93
+Modern Grill,Fettuccine Alfredo,11.44
+Green Bistro,Caesar Salad,9.7
+Green Bistro,Steak Frites,8.05
+Green Bistro,Red Curry,25.32
+Green Bistro,Falafel Wrap,18.86
+Green Bistro,Cheesecake,14.71
+Green Bistro,Hummus Plate,16.54
+Green Bistro,Grilled Salmon,10.12
+Green Bistro,Club Sandwich,35.31
+Green Bistro,Pad Thai,15.69
+Green Bistro,Pancakes,15.59
+Green Bistro,Tiramisu,19.34
+Green Bistro,Veggie Burrito,17.75
+Green Bistro,Fried Rice,16.22
+Blue Bistro,Roast Chicken,11.37
+Blue Bistro,Hummus Plate,17.69
+Blue Bistro,Veggie Pizza,28.98
+Blue Bistro,Tiramisu,24.02
+Blue Bistro,Lasagna,26.2
+Blue Bistro,Fish and Chips,12.54
+Blue Bistro,Cheesecake,10.61
+Blue Bistro,Butter Chicken,14.35
+Blue Bistro,Fettuccine Alfredo,15.3
+Blue Bistro,Cheeseburger,22.0
+Blue Bistro,Chicken Tikka Masala,8.3
+Blue Bistro,Bacon Burger,25.62
+Blue Bistro,Spaghetti Bolognese,14.19
+Blue Bistro,Steak Frites,12.92
+Lively Diner,Red Curry,10.53
+Lively Diner,Pancakes,8.41
+Lively Diner,Falafel Wrap,20.01
+Lively Diner,Waffles,15.39
+Lively Diner,Chicken Burrito,9.55
+Lively Diner,BBQ Chicken Pizza,9.53
+Lively Diner,Grilled Salmon,13.34
+Lively Diner,Chocolate Cake,26.9
+Lively Diner,Lamb Gyro,13.7
+Lively Diner,French Toast,8.86
+Grand Bistro,Tiramisu,13.76
+Grand Bistro,Grilled Salmon,13.63
+Grand Bistro,Butter Chicken,5.84
+Grand Bistro,Chocolate Cake,14.72
+Grand Bistro,Lamb Gyro,13.84
+Grand Bistro,Vegan Burger,19.14
+Grand Bistro,Fried Rice,28.65
+Grand Bistro,Caesar Salad,22.25
+Grand Bistro,BLT Sandwich,13.65
+Grand Bistro,Ice Cream Sundae,10.18
+Grand Bistro,Cobb Salad,36.92
+Spicy Kitchen,Cobb Salad,15.31
+Spicy Kitchen,Spaghetti Bolognese,15.07
+Spicy Kitchen,Veggie Pizza,14.87
+Spicy Kitchen,Cheeseburger,16.08
+Spicy Kitchen,Veggie Burrito,14.26
+Spicy Kitchen,Falafel Wrap,12.27
+Spicy Kitchen,Roast Chicken,12.39
+Spicy Kitchen,Chicken Burrito,14.83
+Spicy Kitchen,Pancakes,12.4
+Spicy Kitchen,Caesar Salad,11.69
+Spicy Kitchen,French Toast,15.57
+Spicy Kitchen,Chocolate Cake,13.72
+Spicy Kitchen,Green Curry,25.39
+Spicy Kitchen,Beef Burrito,5.93
+Lucky Tavern,BLT Sandwich,21.98
+Lucky Tavern,Eggs Benedict,23.2
+Lucky Tavern,Pancakes,7.26
+Lucky Tavern,Fettuccine Alfredo,13.3
+Lucky Tavern,Falafel Wrap,13.17
+Lucky Tavern,BBQ Chicken Pizza,9.17
+Lucky Tavern,Fried Rice,11.43
+Lucky Tavern,Sushi Platter,10.17
+Lucky Tavern,Butter Chicken,27.7
+Lucky Tavern,Pepperoni Pizza,20.81
+Lucky Tavern,Cheesecake,23.41
+Lucky Tavern,Grilled Salmon,19.31
+Lucky Tavern,Steak Frites,10.1
+Lucky Tavern,Beef Burrito,12.48
+Lucky Tavern,Chicken Burrito,17.8
+Lucky Tavern,Avocado Toast,9.78
+Lucky Tavern,Pad Thai,19.25
+Lucky Tavern,Apple Pie,13.79
+Silver Eatery,Waffles,13.16
+Silver Eatery,Club Sandwich,19.24
+Silver Eatery,Cheesecake,17.52
+Silver Eatery,Pancakes,13.22
+Silver Eatery,Beef Burrito,22.51
+Silver Eatery,Bacon Burger,10.27
+Silver Eatery,Lamb Gyro,18.61
+Silver Eatery,Fried Rice,18.46
+Silver Eatery,Eggs Benedict,13.46
+Silver Eatery,Fettuccine Alfredo,16.81
+Silver Eatery,Ice Cream Sundae,9.68
+Silver Eatery,Tempura Udon,20.73
+Cozy Cafe,California Roll,14.06
+Cozy Cafe,Sushi Platter,12.49
+Cozy Cafe,Apple Pie,21.65
+Cozy Cafe,Lasagna,11.72
+Cozy Cafe,Cheeseburger,9.16
+Cozy Cafe,Ice Cream Sundae,8.7
+Cozy Cafe,Red Curry,18.54
+Cozy Cafe,Eggs Benedict,9.58
+Cozy Cafe,Chicken Burrito,27.72
+Cozy Cafe,Green Curry,7.24
+Cozy Cafe,BBQ Chicken Pizza,27.16
+Cozy Cafe,French Toast,16.15
+Cozy Cafe,Fettuccine Alfredo,14.5
+Cozy Cafe,Tiramisu,12.4
+Cozy Cafe,Greek Salad,17.25
+Cozy Cafe,Chocolate Cake,14.8
+Royal Cafe,Green Curry,22.07
+Royal Cafe,Avocado Toast,15.61
+Royal Cafe,Margherita Pizza,15.81
+Royal Cafe,BLT Sandwich,13.21
+Royal Cafe,French Toast,14.7
+Royal Cafe,Red Curry,16.71
+Royal Cafe,Veggie Pizza,8.24
+Royal Cafe,Vegan Burger,9.36
+Royal Cafe,Club Sandwich,19.46
+Royal Cafe,Ramen,15.92
+Royal Cafe,Eggs Benedict,14.06
+Silver Tavern,Pancakes,15.1
+Silver Tavern,Veggie Pizza,16.94
+Silver Tavern,Fish and Chips,12.42
+Silver Tavern,Beef Burrito,11.42
+Silver Tavern,Steak Frites,16.06
+Silver Tavern,Greek Salad,10.65
+Silver Tavern,Chicken Burrito,17.3
+Silver Tavern,Ice Cream Sundae,8.27
+Silver Tavern,Eggs Benedict,21.5
+Silver Tavern,Caesar Salad,17.7
+Silver Tavern,Pepperoni Pizza,16.41
+Silver Tavern,Chicken Tikka Masala,21.16
+Silver Tavern,Cheeseburger,26.87
+Silver Tavern,Veggie Burrito,21.39
+Silver Tavern,Cheesecake,7.88
+Silver Tavern,Margherita Pizza,9.58
+Silver Tavern,Waffles,12.05
+Silver Tavern,Apple Pie,15.14
+Silver Tavern,BBQ Chicken Pizza,17.98
+Silver Tavern,Chocolate Cake,11.64
+Rustic Tavern,French Toast,16.01
+Rustic Tavern,Caesar Salad,11.52
+Rustic Tavern,Cheesecake,12.11
+Rustic Tavern,Cobb Salad,9.17
+Rustic Tavern,Eggs Benedict,10.86
+Rustic Tavern,Chicken Burrito,9.35
+Rustic Tavern,Avocado Toast,10.66
+Rustic Tavern,Beef Burrito,21.69
+Rustic Tavern,Red Curry,10.76
+Rustic Tavern,Waffles,37.69
+Rustic Tavern,Steak Frites,17.83
+Silver Cafe,French Toast,16.0
+Silver Cafe,Steak Frites,11.11
+Silver Cafe,Cobb Salad,19.17
+Silver Cafe,Pad Thai,12.26
+Silver Cafe,Vegan Burger,15.65
+Silver Cafe,Falafel Wrap,36.75
+Silver Cafe,Avocado Toast,14.5
+Silver Cafe,Greek Salad,22.43
+Silver Cafe,Spaghetti Bolognese,11.73
+Silver Cafe,Beef Burrito,14.82
+Silver Cafe,Red Curry,27.88
+Silver Cafe,California Roll,12.04
+Silver Cafe,Hummus Plate,28.29
+Lively Tavern,Margherita Pizza,19.22
+Lively Tavern,Chicken Burrito,12.32
+Lively Tavern,Veggie Burrito,18.72
+Lively Tavern,Lamb Gyro,21.08
+Lively Tavern,Cheesecake,18.65
+Lively Tavern,Eggs Benedict,8.66
+Lively Tavern,Cobb Salad,11.63
+Lively Tavern,Pancakes,13.76
+Lively Tavern,BLT Sandwich,14.61
+Lively Tavern,Waffles,18.64
+Lively Tavern,Tempura Udon,15.96
+Lively Tavern,California Roll,9.4
+Lively Tavern,Pad Thai,17.13
+Lively Tavern,French Toast,18.57
+Sunny Cafe,Vegan Burger,18.25
+Sunny Cafe,Chicken Tikka Masala,21.9
+Sunny Cafe,Roast Chicken,20.08
+Sunny Cafe,Pad Thai,17.62
+Sunny Cafe,Grilled Salmon,14.64
+Sunny Cafe,Red Curry,8.39
+Sunny Cafe,BBQ Chicken Pizza,17.43
+Sunny Cafe,Sushi Platter,16.13
+Sunny Cafe,Waffles,16.5
+Sunny Cafe,Cheesecake,9.59
+Sunny Cafe,Steak Frites,10.27
+Sunny Cafe,Cobb Salad,21.69
+Sunny Cafe,Eggs Benedict,14.79
+Sunny Cafe,Falafel Wrap,19.04
+Sunny Cafe,Spaghetti Bolognese,15.15
+Red Bistro,Lamb Gyro,15.16
+Red Bistro,California Roll,20.83
+Red Bistro,Lasagna,12.52
+Red Bistro,Pancakes,15.51
+Red Bistro,Apple Pie,12.76
+Red Bistro,Club Sandwich,12.88
+Red Bistro,French Toast,13.46
+Red Bistro,Margherita Pizza,16.21
+Red Bistro,Cobb Salad,12.69
+Red Bistro,Red Curry,23.28
+Red Bistro,Roast Chicken,10.97
+Red Bistro,Spaghetti Bolognese,14.05
+Red Bistro,Waffles,12.86
+Red Bistro,Butter Chicken,24.89
+Red Bistro,Cheeseburger,16.07
+Red Bistro,Veggie Burrito,21.52
+Red Bistro,Tempura Udon,8.92
+Red Bistro,Vegan Burger,16.47
+Grand Grill,Fettuccine Alfredo,20.48
+Grand Grill,California Roll,15.44
+Grand Grill,BLT Sandwich,21.78
+Grand Grill,Pad Thai,12.52
+Grand Grill,Sushi Platter,24.56
+Grand Grill,Eggs Benedict,33.54
+Grand Grill,Apple Pie,13.21
+Grand Grill,BBQ Chicken Pizza,12.83
+Grand Grill,Spaghetti Bolognese,24.95
+Grand Grill,Chicken Tikka Masala,26.07
+Grand Grill,Chicken Burrito,12.49
+Grand Grill,Grilled Salmon,12.95
+Grand Grill,Ice Cream Sundae,13.59
+Grand Grill,Fried Rice,9.37
+Grand Grill,Veggie Pizza,10.88
+Grand Grill,Cheesecake,10.56
+Grand Grill,Chocolate Cake,11.47
+Grand Grill,Tempura Udon,14.82
+Grand Grill,Waffles,16.28
+Grand Grill,Club Sandwich,25.81
+Delicious Kitchen,Ice Cream Sundae,10.58
+Delicious Kitchen,Veggie Burrito,21.17
+Delicious Kitchen,Pepperoni Pizza,13.92
+Delicious Kitchen,BBQ Chicken Pizza,14.74
+Delicious Kitchen,Sushi Platter,19.0
+Delicious Kitchen,Veggie Pizza,10.13
+Delicious Kitchen,Chicken Burrito,17.15
+Delicious Kitchen,Tempura Udon,15.9
+Delicious Kitchen,Ramen,17.82
+Delicious Kitchen,Fried Rice,16.6
+Delicious Kitchen,Cobb Salad,35.42
+Delicious Kitchen,Chicken Tikka Masala,12.0
+Blue Eatery,Red Curry,12.46
+Blue Eatery,Roast Chicken,12.06
+Blue Eatery,Bacon Burger,12.35
+Blue Eatery,Cheeseburger,12.0
+Blue Eatery,Apple Pie,22.74
+Blue Eatery,Fettuccine Alfredo,24.66
+Blue Eatery,Pad Thai,12.28
+Blue Eatery,Chicken Tikka Masala,11.21
+Blue Eatery,Eggs Benedict,17.69
+Blue Eatery,Cobb Salad,12.36
+Blue Eatery,Grilled Salmon,18.72
+Blue Eatery,French Toast,16.1
+Blue Eatery,Butter Chicken,8.82
+Blue Eatery,Club Sandwich,25.78
+Blue Eatery,Greek Salad,28.12
+Blue Eatery,California Roll,12.1
+Blue Eatery,Margherita Pizza,13.1
+Blue Eatery,Green Curry,16.58
+Urban Bistro,Chicken Burrito,16.86
+Urban Bistro,Tiramisu,18.89
+Urban Bistro,BLT Sandwich,30.31
+Urban Bistro,Cheeseburger,14.1
+Urban Bistro,Spaghetti Bolognese,11.34
+Urban Bistro,Pancakes,9.26
+Urban Bistro,Tempura Udon,11.61
+Urban Bistro,Lamb Gyro,14.83
+Urban Bistro,Veggie Burrito,28.11
+Urban Bistro,Fried Rice,12.51
+Urban Bistro,Butter Chicken,16.22
+Urban Bistro,French Toast,14.91
+Urban Bistro,Roast Chicken,22.74
+Urban Bistro,Vegan Burger,36.32
+Urban Bistro,Eggs Benedict,12.46
+Urban Bistro,Steak Frites,12.64
+Urban Bistro,Chicken Tikka Masala,21.62
+Blue Eatery,Margherita Pizza,13.1
+Delicious Cafe,Tempura Udon,16.07
+Blue Eatery,Cobb Salad,12.36
+Rustic Tavern,Cheesecake,12.11
+Red Cafe,Veggie Burrito,16.55
+Quiet Bistro,Beef Burrito,14.69
+Charming Bar,Tempura Udon,19.56
+Quiet Eatery,Club Sandwich,9.73
+Blue Tavern,Fettuccine Alfredo,14.25
+Modern Bistro,BBQ Chicken Pizza,29.13
+Blue Cafe,Cheesecake,21.05
+Sunny Kitchen,BLT Sandwich,20.25
+Delicious Tavern,Vegan Burger,15.1
+Delicious Tavern,Vegan Burger,15.1
+Red Bistro,Tempura Udon,8.92
+Lucky Tavern,Grilled Salmon,19.31
+Lively Tavern,Tempura Udon,15.96
+Lucky Eatery,Eggs Benedict,14.44
+Green Grill,Grilled Salmon,12.65
+Sunny Kitchen,Greek Salad,12.72
+Silver Eatery,Bacon Burger,10.27
+Lucky Bar,Beef Burrito,11.52
+Sunny Kitchen,Ramen,10.56
+Cozy Eatery,BBQ Chicken Pizza,12.83
+Spicy Kitchen,Chocolate Cake,13.72
+Sunny House,Fried Rice,27.73
+Cozy Cafe,California Roll,14.06
+Green Eatery,Club Sandwich,26.07
+Sunny Diner,Hummus Plate,10.34
+Rustic Tavern,French Toast,16.01
+Green Grill,Grilled Salmon,12.65
+Grand Grill,Spaghetti Bolognese,24.95
+Silver Cafe,Pad Thai,12.26
+Silver Grill,BLT Sandwich,12.15
+Green Garden,Cheesecake,11.94
+Royal Bistro,Butter Chicken,24.22
+Grand Kitchen,Roast Chicken,28.48
+Lucky Tavern,Pancakes,7.26
+Lucky Eatery,Eggs Benedict,14.44
+Red Tavern,Waffles,26.52
+Lucky Tavern,BLT Sandwich,21.98
+Green Grill,California Roll,15.46
+Blue Cafe,Chicken Burrito,17.0
+Sunny Kitchen,Ramen,10.56
+Quiet Bistro,Margherita Pizza,11.71
+Royal Cafe,Margherita Pizza,15.81
+Modern Kitchen,Waffles,20.06
+Charming Cafe,Cheesecake,18.32
+Red Cafe,Fish and Chips,17.0
+Grand House,Veggie Burrito,8.53
+Charming Cafe,Steak Frites,11.48
+Delicious Cafe,BLT Sandwich,11.66
+Spicy Kitchen,Chocolate Cake,13.72
+Green Diner,BBQ Chicken Pizza,15.32
+Sunny Tavern,Tempura Udon,15.24
+Classic House,Ice Cream Sundae,10.52
+Lucky Eatery,Chocolate Cake,11.23
+Grand House,Tempura Udon,19.07
+Blue Eatery,Margherita Pizza,13.1
+Cozy Cafe,California Roll,14.06
+Red Tavern,Steak Frites,10.8
+Blue Eatery,Pad Thai,12.28
+Lucky Eatery,Cheesecake,19.1
+Lucky Tavern,BBQ Chicken Pizza,9.17
+Blue Tavern,Vegan Burger,9.81
+Happy House,Pad Thai,18.6
+Sunny House,Cheeseburger,23.46
+Delicious Diner,Fish and Chips,12.46
+Happy Kitchen,Lasagna,16.36
+Sunny Tavern,Tempura Udon,15.24
+Grand House,Veggie Burrito,8.53
+Grand Grill,Fried Rice,9.37
+Sunny House,Tiramisu,10.12
+Delicious Tavern,Hummus Plate,26.97
+Blue Tavern,Caesar Salad,21.1
+Grand House,French Toast,7.8
+Delicious Cafe,Lasagna,16.14
+Happy Bistro,Tempura Udon,12.16
+Cozy Eatery,Fish and Chips,17.17
+Blue Eatery,Greek Salad,28.12
+Lucky Kitchen,California Roll,16.11
+Sunny Tavern,Club Sandwich,14.41
+Blue Tavern,Chocolate Cake,31.2
+Silver Tavern,Steak Frites,16.06
+Cozy Eatery,Veggie Burrito,20.24
+Classic House,Ice Cream Sundae,10.52
+Charming Cafe,Cheesecake,18.32
+Grand Kitchen,Red Curry,8.58
+Cozy Cafe,Ice Cream Sundae,8.7
+Classic House,Chocolate Cake,13.86
+Lucky Kitchen,Falafel Wrap,24.2
+Green Diner,California Roll,19.52
+Charming Bar,California Roll,57.77
+Charming Garden,Fettuccine Alfredo,15.63
+Happy Bistro,Sushi Platter,15.7
+Cozy Cafe,Cheeseburger,9.16
+Lucky Tavern,Apple Pie,13.79
+Red Cafe,Tiramisu,31.65
+Royal Cafe,Green Curry,22.07
+Lucky Tavern,Fried Rice,11.43
+Silver Cafe,Falafel Wrap,36.75
+Grand House,Pepperoni Pizza,15.34
+Classic Eatery,Spaghetti Bolognese,11.18
+Delicious Diner,Cheesecake,9.86
+Green Eatery,Club Sandwich,26.07
+Silver Grill,Eggs Benedict,12.16
+Silver Grill,Waffles,14.93
+Grand Bistro,Grilled Salmon,13.63
+Urban Bistro,French Toast,14.91
+Lucky Grill,Chocolate Cake,15.49
+Delicious Diner,Cheeseburger,12.36
+Delicious Tavern,Lasagna,13.26
+Green Garden,Pepperoni Pizza,13.11
+Lucky Kitchen,Spaghetti Bolognese,10.74
+Royal Bistro,French Toast,8.11
+Silver Tavern,Chicken Tikka Masala,21.16
